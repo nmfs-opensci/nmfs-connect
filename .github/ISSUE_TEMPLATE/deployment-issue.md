@@ -2,7 +2,7 @@
 name: Deployment Issue
 about: Report a problem with deploying to Posit Connect
 title: "DEPLOYMENT ISSUE: [add informative title]"
-labels: ["deployment Issue"]
+labels: ["deployment-Issue"]
 assignees: 'k-doering-NOAA'
 
 ---
