@@ -2,6 +2,10 @@
 
 Access resources for users and admins of the NOAA Fisheries [Posit Connect](https://posit.co/products/enterprise/connect/) Instances.
 
+## How do I learn more about Connect?
+
+Check out the [User Guide](https://connect.fisheries.noaa.gov/__docs__/user/)
+
 ## How do I request access?
 
 The NMFS connect instances are for NMFS affiliates (i.e., anyone with a NOAA.gov email address within NMFS). 
@@ -14,6 +18,8 @@ Please open an [issue](https://github.com/nmfs-opensci/nmfs-connect/issues).
 
 ## Helpful links (internal only)
 
-
+- NMFS-specific User Info - Coming soon!
+- Admin SOP - Coming soon!
 - [NMFS-generated FAQs](https://docs.google.com/document/d/1wWBg_L8vkzTH7kNmJnI2yG4HkVybVo48qWtCrLEei6U/edit#)
 - [RStudio Connect Demo video](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing)
+
