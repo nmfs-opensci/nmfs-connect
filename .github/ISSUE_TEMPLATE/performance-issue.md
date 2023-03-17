@@ -1,8 +1,8 @@
 ---
 name: Performance Issue
 about: Report a performance issue with hosted content.
-title: "Performance: [add informative title]"
-labels: 'Performance Issue'
+title: "PERFORMANCE ISSUE: [add informative title]"
+labels: 'performance issue'
 assignees: 'k-doering-NOAA'
 
 ---

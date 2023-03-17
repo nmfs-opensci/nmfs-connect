@@ -1,17 +1,15 @@
 ---
 name: Dependency request
 about: This issue template is to request new system-level dependencies on connect
-title: "DEPENDENCY: [Add informative title]"
-labels: 'Dependency request'
+title: "DEPENDENCY REQUEST: [Add informative title]"
+labels: 'dependency request'
 assignees: 'k-doering-NOAA'
 
 ---
 
-## number of products
-Which apps are affected?
+## Which app(s) are affected?
 
-## are the products in use?
-Are these apps used for management?
+## Are these apps used for informing management?
 
 ##  Which dependencies would you like to request?
 
