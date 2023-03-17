@@ -2,7 +2,7 @@
 name: Dependency request
 about: This issue template is to request new system-level dependencies on connect
 title: "DEPENDENCY REQUEST: [Add informative title]"
-labels: ["dependency request"]
+labels: ["dependency-request"]
 assignees: 'k-doering-NOAA'
 
 ---
