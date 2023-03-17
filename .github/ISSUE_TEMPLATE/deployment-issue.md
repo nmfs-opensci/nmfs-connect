@@ -1,5 +1,5 @@
 ---
-name: Report a Deployment Issue
+name: Deployment Issue
 about: Report a problem with deploying to Posit Connect
 title: "ISSUE: [add informative title]"
 labels: 'Deployment Issue'
