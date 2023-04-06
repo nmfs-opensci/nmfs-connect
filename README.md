@@ -4,7 +4,7 @@ Access resources for users and admins of the NOAA Fisheries [Posit Connect](http
 
 ## How do I learn more about Connect?
 
-Check out the [User Guide](https://connect.fisheries.noaa.gov/__docs__/user/)
+Check out the [User Guide](https://docs.posit.co/connect/user/)
 
 ## How do I request access?
 
