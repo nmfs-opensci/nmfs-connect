@@ -12,9 +12,11 @@ The NMFS connect instances are for NMFS affiliates (i.e., anyone with a NOAA.gov
 
 Use this [Form to request access to the NMFS connect instance](https://docs.google.com/forms/d/e/1FAIpQLSeNODOiiAjFBQgoLJ50TJps_Xy85YaPlUxRiG6opLEFOQhQew/viewform?usp=sf_link) (must be logged into noaa.gov email) or email kathryn.doering@noaa.gov.
 
-## How do I report a problem with using connect?
+## How do I report a problem with using connect or get help?
 
-Please open an [issue](https://github.com/nmfs-opensci/nmfs-connect/issues).
+Join the [NMFS Posit Connect Google Space](https://chat.google.com/room/AAAA-adVTwk?cls=7) (NOAA internal only, must be logged into NOAA email for the link to work) to discuss topics with other NMFS-connect users!
+
+If there is a problem that can't be resolved through chatting on the Google Space, please open an [issue](https://github.com/nmfs-opensci/nmfs-connect/issues).
 
 ## Helpful links (internal only)
 
