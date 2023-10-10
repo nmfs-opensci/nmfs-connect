@@ -35,6 +35,5 @@ If there is a problem that can't be resolved through chatting on the Google Spac
 
 - [NMFS-specific User Guide](https://docs.google.com/document/d/1783zEdKFgTOWg4eayePrPjqAS9j6pN1hNPqd8h787Ao/edit)
 - [Admin SOP](https://docs.google.com/document/d/1JVhpZWK1drVdT1REzIw3A0bzITMBPj_e75hkWp_gT_E/edit#)
-- [NMFS-generated FAQs](https://docs.google.com/document/d/1wWBg_L8vkzTH7kNmJnI2yG4HkVybVo48qWtCrLEei6U/edit#)
 - [RStudio Connect Demo video](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing)
 
