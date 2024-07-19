@@ -23,7 +23,7 @@ Check out the [User Guide](https://docs.posit.co/connect/user/). To learn more s
 
 The NMFS connect instances are for NMFS affiliates (i.e., anyone with a NOAA.gov email address within NMFS). 
 
-Use this [Form to request access to the NMFS connect instance](https://docs.google.com/forms/d/e/1FAIpQLSeNODOiiAjFBQgoLJ50TJps_Xy85YaPlUxRiG6opLEFOQhQew/viewform?usp=sf_link) (must be logged into noaa.gov email) or email kathryn.doering@noaa.gov.
+Use this [Form to request access to the NMFS connect instance](https://docs.google.com/forms/d/e/1FAIpQLSeNODOiiAjFBQgoLJ50TJps_Xy85YaPlUxRiG6opLEFOQhQew/viewform?usp=sf_link) (must be logged into noaa.gov email) or email fisheries.rstudio.connect@noaa.gov.
 
 ## How do I report a problem with using connect or get help?
 
